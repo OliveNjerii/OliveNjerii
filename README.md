@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliveNjerii
-- 👀 I’m interested in Full stack Web Development
-- 🌱 I’m currently learning Javascript, Data Structures and Algorithms.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C, Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me 
   - LinkedIn:
